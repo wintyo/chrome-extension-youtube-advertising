@@ -1,0 +1,9 @@
+{
+  "name": "YouTube広告動画URLゲッター",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "",
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
